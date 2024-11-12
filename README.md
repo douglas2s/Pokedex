@@ -15,4 +15,4 @@
   Projeto supervisionado por Renan Johannsen da DIO.
 
 Segue o link do game
-https://douglas2s.github.io/memory-game/
+https://douglas2s.github.io/Pokedex/
