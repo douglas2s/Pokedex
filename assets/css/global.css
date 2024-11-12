@@ -1,0 +1,36 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+        background-image: url(/assets/imgs/pokemon-world.png) ;
+        background-attachment: fixed;
+        background-size: cover;
+        
+}
+
+h1 {
+    text-align: center;
+    color: #f2ff00;
+    filter: drop-shadow(.2rem .2rem .1rem #080808fd)
+}
+
+.content {
+    width: 100vw;
+    height: 100vh;
+    padding: 1rem;
+    background-color: #fff70244;
+}
+
+
+
+
+@media screen and (min-width: 992px) {
+    .content {
+        max-width: 992px;
+        height: auto;
+        margin: 1rem auto;
+        border-radius: 1rem;
+    }
+}
