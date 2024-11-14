@@ -4,7 +4,7 @@
 }
 
 body {
-        background-image: url(/assets/imgs/pokemon-world.png) ;
+        background-image: url(assets/imgs/pokemon-world.png) ;
         background-attachment: fixed;
         background-size: cover;
         
